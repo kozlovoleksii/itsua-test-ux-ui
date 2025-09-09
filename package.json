@@ -1,0 +1,12 @@
+{
+  "name": "itsua-test-ux-ui",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/kozlovoleksii/itsua-test-ux-ui",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
